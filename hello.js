@@ -1,6 +1,10 @@
 console.log("hello");
 function add(name){
+<<<<<<< HEAD
     return "Hello!"+name;
+=======
+    return name
+>>>>>>> branchA
 }
 
-add("Sadiul hakim")
+console.log(add("Sadiul hakim"))
