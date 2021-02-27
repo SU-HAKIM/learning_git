@@ -1,6 +1,6 @@
 console.log("hello");
 function add(name){
-    console.log("your name is "+name)
+    return name
 }
 
-add("Sadiul hakim")
+console.log(add("Sadiul hakim"))
