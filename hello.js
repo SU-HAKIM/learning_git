@@ -1,10 +1,5 @@
-console.log("hello");
-function add(name){
-
-    return "Hello!"+name;
-
-    return name
-
+function div (a,b){
+    return a/b
 }
 
-console.log(add("Sadiul hakim"))
+console.log(div(10,12))
